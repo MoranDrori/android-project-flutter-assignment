@@ -1,4 +1,4 @@
-
+#
 תשובות -
 1. המחלקה המממשת את ה-controller עבור ה-snappingSheet היא ה- snappingSheetController.
 ה-controller מאפשר לשלוט במיקום ה-snappingSheet, כלומר ניתן לשנות את מיקום ה-snappingSheet. בנוסף, ניתן לקבל את המיקום הנוכחי של ה-snappingSheet.
